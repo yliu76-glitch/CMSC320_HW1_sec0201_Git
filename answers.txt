@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Public policy. For example you can conduct an experiment on the effects of your policy and gather the data in a database, then organize and clean that data using pandas. That is data science.
