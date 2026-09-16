@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging keeps history while rebasing deletes it.
 
+Q4: What are you looking forward to this semester?
+
+Answer: Watching the NFL.
