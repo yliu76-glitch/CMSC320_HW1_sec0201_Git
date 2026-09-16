@@ -5,3 +5,8 @@ Answer: We might use git to have version control and be able to have backups in 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Public policy. For example you can conduct an experiment on the effects of your policy and gather the data in a database, then organize and clean that data using pandas. That is data science.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging keeps history while rebasing deletes it.
+
